@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgendaEtudiant</string>
+    <string-array name="event_types">
+        <item>Cours</item>
+        <item>Devoir</item>
+        <item>Examen</item>
+    </string-array>
+
+</resources>
